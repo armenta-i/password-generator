@@ -4,17 +4,19 @@ This Python script generates a random password of 10 characters. The password co
 
 ##Features
 
--Generates a random password of length 10 characters -Includes uppercase and lowercase letters -Includes digits (0-9)
+-Generates a random password of length 10 characters
+-Includes uppercase and lowercase letters
+-Includes digits (0-9)
 
 ##Usage
 
-Save the code in a Python file (e.g., password_generator.py).
+1. Save the code in a Python file (e.g., password_generator.py).
+2. Run the script using a Python interpreter.
+3. The generated password will be printed to the console.
 
-Run the script using a Python interpreter.
-
-The generated password will be printed to the console.
-
-``python $ python password_generator.py Password: 4Xt2Ky9Zr7
+   ``python
+   $ python password_generator.py
+   Password: 4Xt2Ky9Zr7
 
 ###Contribution
 
