@@ -2,7 +2,7 @@ import random
 import string
 
 def passwordGenerator():
-    possibilities = string.ascii_letters + string.digits + "!#$%^&*()-_/"
+    possibilities = string.ascii_letters + string.digits + string.digits
 
     password = ''
     for i in range(10):
